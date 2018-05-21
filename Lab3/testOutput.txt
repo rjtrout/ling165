@@ -1,0 +1,3 @@
+Top 10 words in WSJ_0725: ['oil', 'wells', 'santa', 'energy', 'prices', 'says', 'ago', 'again', 'production', 'men']
+Top ten words like oil: ['crude', 'petroleum', 'gas', 'output', 'natural', 'energy', 'production', 'wells', 'settled', 'capacity'] 
+Top ten documents like qry "oil price": ['WSJ_0755', 'WSJ_0725', 'WSJ_1428', 'WSJ_2363', 'WSJ_1311', 'WSJ_1226', 'WSJ_2325', 'WSJ_0473', 'WSJ_1789', 'WSJ_1470']
